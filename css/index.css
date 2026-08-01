@@ -102,3 +102,9 @@ hr {
   width: 60%;
   margin: 0 auto;
 }
+
+@media (max-width: 768px) {
+  .contain-box2 {
+    width: 95%;
+  }
+}
